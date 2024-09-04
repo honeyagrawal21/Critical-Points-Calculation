@@ -12,3 +12,4 @@ The repository also implements the Canny edge detection algorithm, which is a mu
 The project extends into 3D space by handling point clouds, which are sets of data points in three dimensions representing the surface of an object. The repository includes functions to read and visualize 3D meshes and point clouds. It also demonstrates how to convert a mesh to a point cloud and perform voxel grid downsampling, which reduces the number of points while preserving the overall structure. This technique is vital for efficiently processing large 3D datasets in applications like 3D modeling and spatial analysis.
 
 Overall, this repository is a valuable resource for anyone looking to understand and implement key computer vision techniques in both 2D and 3D contexts.
+![image](https://github.com/user-attachments/assets/ef0a51d5-2a21-4149-b50e-57ee7ef3b999)
